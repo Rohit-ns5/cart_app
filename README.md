@@ -30,17 +30,17 @@ This is a React-based cart application that demonstrates the use of context and 
    git clone https://github.com/Rohit-ns5/cart-application.git
    
 2. Navigate to the project directory:
-  ```bash
+  
   cd cart_app
 
 3. Install dependencies:
-  ```bash
+  
   npm install
 
 ## Usage
 
 1. Start the development server:
-  ```bash
+  
   npm start
 
 2. Open your browser and navigate to http://localhost:3000 to view the application.
